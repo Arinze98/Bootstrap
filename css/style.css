@@ -1,0 +1,7 @@
+.btnCon{
+   margin: 1rem;
+}
+.conContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
